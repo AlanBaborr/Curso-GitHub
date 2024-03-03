@@ -1,7 +1,7 @@
 let num = 10;
 console.log(num);
 
-let Nombre = 'Alan Babor'
+let Nombre = 'Soy Alan Babor'
 let edad = 19;
 let LibroFav = {
     titulo: 'Alicia en el pais de las maravillas',
