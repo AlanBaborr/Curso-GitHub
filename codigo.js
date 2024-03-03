@@ -1,3 +1,4 @@
-let nombre = "Babor"
-log( "hola" + nombre)
+let nombre = "Alan"
+let apellido = "Babor"
+log( "hola" + nombre + "" + apellido)
 
